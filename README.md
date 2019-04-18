@@ -1,2 +1,2 @@
 # TicTacToe (iksik-nolik) terminal game.
-# Certain X, O two player Terminal Game.
+# X, O two player Terminal Game.
